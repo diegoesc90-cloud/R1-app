@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-11-11T23:46:13.898524",
+  "regime": {
+    "regime": "UNKNOWN",
+    "spy_price": 0,
+    "spy_ma200": 0,
+    "distance_pct": 0
+  },
+  "n_tickers_evaluated": 0,
+  "signals": []
+}
